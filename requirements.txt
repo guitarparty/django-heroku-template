@@ -1,0 +1,12 @@
+Django==1.4.1
+psycopg2==2.4.5
+dj-database-url==0.2.0
+gunicorn==0.14.6
+django-storages==1.1.5
+django_compressor==1.2
+boto==2.6.0
+BeautifulSoup==3.2.1
+webassets==0.7.1
+django_assets==0.2
+django-mediasync==2.2.0
+yuicompressor==2.4.7
